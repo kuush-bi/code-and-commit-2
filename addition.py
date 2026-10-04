@@ -8,3 +8,7 @@ e = b*d
 print(e)
 m = a/b
 print(m)
+a=90
+b=87
+g=a/b
+print(g)
