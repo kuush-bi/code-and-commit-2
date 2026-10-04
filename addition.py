@@ -6,3 +6,5 @@ d = a - b
 print(d)
 e = b*d
 print(e)
+m = a/b
+print(m)
